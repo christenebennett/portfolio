@@ -1,0 +1,86 @@
+.navBar ul{
+  list-style: none;
+  text-align: center;
+  background-color: grey;
+
+}
+.navBar ul li {
+  display: inline-block;
+  padding: 20px;
+  font-size: 1.2em;
+  font-color: white;
+}
+
+.header {
+  text-align: center;
+}
+
+.headerImage {
+  width: 100%;
+  opacity: .5
+}
+.headshot {
+  border-radius: 100%;
+  max-width: 25%;
+  
+}
+
+h2 {
+  text-align: center;  
+}
+
+.mainContent {
+  margin: 20px;
+}
+
+.gallery {
+  display: inline-block;
+  text-align: center;
+}
+.gallery img {
+  margin: 10px;
+}
+
+.social {
+  text-align: center;
+}
+.social li {
+  display: inline-block;
+  list-style: none;
+  margin: 10px;
+  padding: 5px;
+  background-color: grey; 
+  color: white;
+  border-radius: 5px;
+}
+
+.contactBox {
+  margin: 50px auto;
+  background-color: grey;
+  width: 50%;
+  font-color: white;
+  border-radius: 5px;
+}
+
+.contactBox label {
+  display: none;
+}
+
+.contactBox input {
+  display: block;
+  width: 90%;
+  margin: 10px auto;
+  
+}
+.contactBox textarea {
+  display: block;
+  width: 90%;
+  margin: 10px auto;
+}
+.contactBox p {
+  padding: 10px;
+  text-align: left;
+}
+.contactBox form {
+  padding: 20px;
+}
